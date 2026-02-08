@@ -1,0 +1,9 @@
+#### **B. `requirements.txt`**
+```text
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+jupyter
